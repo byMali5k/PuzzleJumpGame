@@ -1,7 +1,9 @@
 Privacy Policy 
 This Privacy Policy describes how [Puzzle Jump developed by Mali5k] ("we," "us," or "our") collects, uses, and shares information when you play our mobile game [Puzzle Jump] (the "Game"). 
+
 Information We Collect 
-•	Information You Provide: We may collect information you provide directly, such as your name and email address (if you contact us for support). 
+
+•	Information You Provide: We may collect information you provide directly, such as your name and email address (if you contact us for support).
 •	Device Information: We collect information about the device you use to play the Game, including device type, operating system, unique device identifiers, and mobile network information. 
 •	Game Play Information: We collect information about your activity in the Game, such as levels completed, in-app purchases, and interactions with ads. 
 •	Advertising Information: Our advertising partners (e.g., ironSource) may collect information about your device and your interactions with ads within the Game. This may include your device's advertising ID, IP address, and information about the ads you view and click on. 
