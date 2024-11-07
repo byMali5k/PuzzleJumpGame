@@ -1,4 +1,5 @@
 **Privacy Policy** 
+
 This Privacy Policy describes how [Puzzle Jump developed by Mali5k] ("we," "us," or "our") collects, uses, and shares information when you play our mobile game [Puzzle Jump] (the "Game"). 
 
 **Information We Collect**
